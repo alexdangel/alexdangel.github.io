@@ -8,8 +8,9 @@ I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.
 
 ## News
 
-- **[June 2023]** I presented "The Demand for Personal Air Pollution Exposure Information" (with Timo Goeschl) at the EAERE Summer Conference in Limassol, Cyprus.
-- **[May 2023]** AERE in Portland, Maine, USA
+- **[June 2023]** EAERE Summer Conference in Limassol, Cyprus.
+- **[May 2023]** AERE Summer Conference in Portland, Maine, USA.
+-**[November 2022] Environmental Economics Brownbag Seminar at ZEW, Mannheim. 
 
 {% include_relative _includes/workingpapers.md %}
 
