@@ -1,22 +1,20 @@
 # Basic Information 
 title: Alex Dangel
-position: Doctoral Student
+position: Doctoral Researcher
 affiliation: Heidelberg University
-email: alexander.dangel (at) uni-heidelberg.de
+email: [alexander.dangel@uni-heidelberg.de](mailto: alexander.dangel@uni-heidelberg.de)
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Dangel Alexander Alex Heidelberg Germany Economics
-description: 
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Dangel Alexander Alex Heidelberg University Germany Environmental Economics Economist Air Pollution Quality Researcher Research Science
+description: Doctoral Researcher at Heidelberg University | Environmental Economics
+canonical: https://alexdangel.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -34,11 +32,11 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+google_analytics: 
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
