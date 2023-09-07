@@ -19,5 +19,3 @@ Field Experiment on Sensor Demand, Users, and Use" (joint work with Timo Goeschl
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

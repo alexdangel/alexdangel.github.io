@@ -2,7 +2,6 @@
 title: Alex Dangel
 position: Doctoral Researcher
 affiliation: Heidelberg University
-email: alexander.dangel@uni-heidelberg.de
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -15,6 +14,7 @@ canonical: https://alexdangel.github.io
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
+email: mailto:alexander.dangel@uni-heidelberg.de
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
