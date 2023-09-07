@@ -18,5 +18,3 @@ I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.
 - **[June 2023]** EAERE Summer Conference in Limassol, Cyprus.
 - **[June 2023]** AWI Internal Seminar in Heidelberg. 
 - **[May 2023]** AERE Summer Conference in Portland, USA.
-- **[May 2023]** AURÖ Nachwuchsworkshop in Hagen.
-- **[November 2022]** Environmental Economics Brownbag Seminar at ZEW in Mannheim. 
