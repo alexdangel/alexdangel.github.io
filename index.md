@@ -4,12 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am a doctoral student at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. 
-
-## Research Interests
-
-- **Field Experiments** 
-- **Air Pollution** 
+I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. I study behavioral aspects of air quality information collection and disclosure using field experimental, spatial, and quasi-experimental methods. My dissertation is supported by a scholarship from the [German Federal Environmental Foundation](https://www.dbu.de/en/).
 
 ## News
 
