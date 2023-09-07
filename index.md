@@ -10,11 +10,11 @@ I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.
 
 - **[June 2023]** EAERE Summer Conference in Limassol, Cyprus.
 - **[May 2023]** AERE Summer Conference in Portland, Maine, USA.
--**[November 2022] Environmental Economics Brownbag Seminar at ZEW, Mannheim. 
+- **[November 2022] Environmental Economics Brownbag Seminar at ZEW, Mannheim. 
 
 {% include_relative _includes/workingpapers.md %}
 
-## Works in Progress
+## In Progress
 
-- The Demand for Personal Air Pollution Exposure Information (with Timo Goeschl)
-- Spatiotemporal Diffusion Patterns and Spillovers in Low-Cost Air Quality Sensor Adoption (with Timo Goeschl)
+1. The Demand for Personal Air Pollution Exposure Information (with Timo Goeschl)
+2. Spatiotemporal Diffusion Patterns and Spillovers in Low-Cost Air Quality Sensor Adoption (with Timo Goeschl)
