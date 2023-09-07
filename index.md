@@ -2,21 +2,21 @@
 layout: homepage
 ---
 
-## Bio
+## Hi there!
 
-I am a doctoral student at the Research Center for Environmental Economics at Heidelberg University in Germany. 
+I am a doctoral student at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. 
 
 ## Research Interests
 
-- **Air Pollution:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Field Experiments** 
+- **Air Pollution** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[June 2023]** I presented "Private Alternatives to Public Air Quality Monitoring: A
+Field Experiment on Sensor Demand, Users, and Use" (joint work with Timo Goeschl) at the EAERE Summer Conference in Limassol, Cyprus.
+- **[May 2023]** AERE in Portland, Maine, USA
+
 
 {% include_relative _includes/publications.md %}
 
