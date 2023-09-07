@@ -2,13 +2,13 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
-I am a Ph.D. student at ...
+I am a doctoral student at the Research Center for Environmental Economics at Heidelberg University in Germany. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Air Pollution:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
