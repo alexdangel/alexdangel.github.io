@@ -4,6 +4,6 @@ layout: homepage
 
 [back](./)
 
-## Here's my blog
+### Blog
 
-blog blog blog yay!
+-- under construction -- 
