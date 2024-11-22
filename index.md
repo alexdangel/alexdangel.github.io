@@ -4,7 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. In my dissertation, I study behavioral aspects of air quality information collection and disclosure using field experimental, spatial, and quasi-experimental methods. My research is supported by a doctoral scholarship from the [German Federal Environmental Foundation](https://www.dbu.de/en/). 
+I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. In my dissertation, I study air pollution information and adaptation using field experimental, spatial, and quasi-experimental methods. My research is supported by a doctoral scholarship from the [German Federal Environmental Foundation](https://www.dbu.de/en/). 
 
 You can read my [blog here](./blog.html). 
 
