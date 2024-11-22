@@ -4,7 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. In my dissertation, I study air pollution information and adaptation using field experimental, spatial, and quasi-experimental methods. 
+I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. In my dissertation, I study air quality sensors and behavioral responses to pollution risks using field experimental, spatial, and quasi-experimental methods. 
 
 My research is supported by a doctoral scholarship from the [German Federal Environmental Foundation](https://www.dbu.de/en/). 
 
@@ -21,8 +21,9 @@ My research is supported by a doctoral scholarship from the [German Federal Envi
 - **September 2024:** 9th Workshop on Experimental Economics for the Environment in Bochum. 
 - **September 2024:** Advances with Field Experiments Conference in London, UK.
 - **July 2024:** EAERE Summer Conference in Leuven, Belgium.
-- **June 2024:** EAERE Summer School in Resource and Environmental Economics at Schloss Seggau in Austria. 
+- **June 2024:** EAERE Summer School at Schloss Seggau in Austria. 
 - **May 2024:** Mannheim Conference on Energy and the Environment in Mannheim.
+
 - **June 2023:** EAERE Summer Conference in Limassol, Cyprus.
 - **June 2023:** AWI Internal Seminar in Heidelberg. 
 - **May 2023:** AERE Summer Conference in Portland, USA.
