@@ -18,7 +18,7 @@ My research is supported by a doctoral scholarship from the [German Federal Envi
 
 ## Upcoming Presentations
 
--- **March 2025:** CESifo / ifo Junior Workshop on Energy and Climate Economics 2025 in Munich.
+- **March 2025:** CESifo / ifo Junior Workshop on Energy and Climate Economics 2025 in Munich.
 
 ## Recent Presentations
 
