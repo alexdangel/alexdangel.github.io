@@ -16,6 +16,10 @@ My research is supported by a doctoral scholarship from the [German Federal Envi
 - Wearable Air Quality Sensor Demand, Use, and Impacts: Field Experimental Evidence from US Early Adopters (with Timo Goeschl)
 - Stationary Air Quality Sensor Adoption: The Role of Socioeconomics, Government Monitors, and Nearby Sensors (with Timo Goeschl)
 
+## Upcoming Presentations
+
+-- **March 2025:** CESifo / ifo Junior Workshop on Energy and Climate Economics 2025 in Munich.
+
 ## Recent Presentations
 
 - **September 2024:** 9th Workshop on Experimental Economics for the Environment in Bochum. 
