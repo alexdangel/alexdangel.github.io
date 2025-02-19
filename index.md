@@ -4,7 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am a researcher at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. I study air quality sensors and behavioral responses to pollution risks using field experimental, spatial, and quasi-experimental methods. 
+I am a researcher at Heidelberg University's [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I study air quality sensors and behavioral responses to pollution risks using field experimental, spatial, and quasi-experimental methods. 
 
 {% include_relative _includes/workingpapers.md %}
 
