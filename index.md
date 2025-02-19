@@ -4,9 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am an economics doctoral student supervised by [Timo Goeschl](https://www.awi.uni-heidelberg.de/en/node/270) at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. In my dissertation, I study air quality sensors and behavioral responses to pollution risks using field experimental, spatial, and quasi-experimental methods. 
-
-My research is supported by a doctoral scholarship from the [German Federal Environmental Foundation](https://www.dbu.de/en/). 
+I am a researcher at the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics) at Heidelberg University. I study air quality sensors and behavioral responses to pollution risks using field experimental, spatial, and quasi-experimental methods. 
 
 {% include_relative _includes/workingpapers.md %}
 
