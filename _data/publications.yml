@@ -1,6 +1,6 @@
 main:
 
-  - title: "Air Quality Alerts and Don't Drive Appeals: Evidence on Voluntary Pollution Mitigation Dynamics from Germany"
+  - title: ["Air Quality Alerts and Don't Drive Appeals: Evidence on Voluntary Pollution Mitigation Dynamics from Germany"](https://archiv.ub.uni-heidelberg.de/volltextserver/36004/7/Dangel_Goeschl_2025_dp760.pdf)
     authors: with Timo Goeschl
     conference: AWI DISCUSSION PAPER SERIES NO. 760, January 2025
     image: ./assets/img/aqa_teaser.png
