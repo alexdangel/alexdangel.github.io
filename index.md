@@ -15,6 +15,7 @@ I am a researcher at Heidelberg University's [Research Center for Environmental 
 - Mind the PM2.5 Gap! Comparing Exposure Data from Wearable Sensors and Ambient Monitors
 
 ## Upcoming Presentations
+- **June 2025:** EAERE Summer Conference in Bergen, Norway.
 - **June 2025:** ZEW-Heidelberg-Mannheim Environmental Economics Brownbag Seminar.
 - **May 2025:** Mannheim Conference on Energy and the Environment in Mannheim (Egg-Timer).
 
