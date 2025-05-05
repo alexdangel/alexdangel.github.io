@@ -4,7 +4,7 @@ layout: homepage
 
 ## Hi there!
 
-I am a researcher at Heidelberg University's [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I study the economics of low-cost sensors and behavioral responses to health risks using field experimental and quasi-experimental methods. 
+I am a researcher at Heidelberg University's [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I study the economics of low-cost environmental sensors and behavioral responses to health risks using field experimental and quasi-experimental methods. 
 
 {% include_relative _includes/workingpapers.md %}
 
