@@ -9,7 +9,6 @@ I am a researcher at Heidelberg University's [Research Center for Environmental 
 🔴 ***This Friday, May 9: AERE@OSWEET at 11am US Pacific Time*** ([Link](https://uoregon.zoom.us/meeting/register/uQ0mHtLlQuOngAEw7e2Lhg#/registration){:target="_blank"}) 🔴
 
 {% include_relative _includes/workingpapers.md %}
-
 ## In Progress
 
 **Now It's Personal: A Field Experiment on the Demand for Wearable Air Quality Sensors with US Early Adopters** (with Timo Goeschl)
