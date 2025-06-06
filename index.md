@@ -18,7 +18,7 @@ I am a researcher at Heidelberg University's [Research Center for Environmental 
 
 
 ## Upcoming Presentations
-- **September 2025:** Advances with Field Experiments Conference in Chicago, USA.
+- **September 2025:** Advances with Field Experiments Conference in Chicago, USA (accepted).
 - **June 2025:** EAERE Summer Conference in Bergen, Norway.
 - **June 2025:** ZEW-Heidelberg-Mannheim Environmental Economics Brownbag Seminar.
 
