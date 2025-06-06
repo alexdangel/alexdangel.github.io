@@ -43,9 +43,6 @@
   </div>
 </div>
 
-
-<br>
-
 {% endfor %}
 
 </ol>
