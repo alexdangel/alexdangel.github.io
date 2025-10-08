@@ -22,9 +22,9 @@ Previously, I completed my PhD in Economics at Heidelberg University as a member
 **Stationary Air Quality Sensor Adoption: The Role of Socioeconomics, Government Monitors, and Nearby Sensors** (with Timo Goeschl)  
   
 
-%
-%## Upcoming Presentations
-%
+[//]: # ''
+[//]: # (## Upcoming Presentations)
+[//]: # ''
 ## Recent Presentations
 - **June 2025:** EAERE Summer Conference in Bergen, Norway.
 - **June 2025:** ZEW-Heidelberg-Mannheim Environmental Economics Brownbag Seminar.
