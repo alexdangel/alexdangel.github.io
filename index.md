@@ -4,7 +4,11 @@ layout: homepage
 
 ## Hi there!
 
-I am a researcher at Heidelberg University's [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I study the economics of low-cost environmental sensors and behavioral responses to environmental health risks using field experimental and quasi-experimental methods. 
+I am a Postdoctoral Researcher at the Potsdam Institute for Climate Impact Research (PIK). 
+
+My research uses field experiments and quasi-experiments to study the economics of low-cost environmental sensors and behavioral responses to environmental health risks. 
+
+Previously, I completed my PhD in Economics at Heidelberg University as part of the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I recieved a dissertation scholarship from the German Federal Environmental Foundation (DBU).
 
 {% include_relative _includes/workingpapers.md %}
 <ul> <li style="list-style-type: none;">This paper studies temporal factors influencing the effectiveness of don't drive appeals (DDAs) which policy-makers use to encourage motorists to voluntarily reduce driving during transitory high pollution episodes. We derive and empirically validate a theoretical framework for DDAs where the desired behavioral response is sensitive to the number of consecutive DDA days and recovery time between episodes. Our analysis of daily traffic flows from automatic traffic counters in Stuttgart, Germany shows that DDAs at best reduce overall car trip demand during pollution events by less than 1&percnt; on average, but treatment effects vary. Difference-in-difference event study estimates reveal that DDAs: i) lead to approximately 3&percnt; traffic reductions on the first three days of DDAs and taper off in effectiveness during longer episodes, ii) regain effectiveness at the tail end of DDA episodes once local authorities announce when they will be lifted, and iii) only reduce city center traffic following lengthy recovery periods between events. Our findings provide evidence that temporal factors like social norms and intertemporal substitution dynamically affect voluntary short-term pollution mitigation programs. They also confirm prior North American evidence on DDA traffic displacement and limited overall impact in a European setting.</li></ul>
