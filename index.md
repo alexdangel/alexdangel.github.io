@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## Hi there!
+## Hi there!👋
 
 I am a Postdoctoral Researcher in the [Policy Evaluation Lab](https://www.pik-potsdam.de/en/institute/labs/policy-evaluation/governance) at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en). 
 
-My research uses field experiments and quasi-experiments to study topics at the intersection of environmental economics, behavioral science, and public health. In particular, I'm interested in low-cost environmental sensors and adaptation to environmental health risks. 
+My research uses field experiments and quasi-experiments to study topics at the intersection of environmental economics, behavioral science, and public health. In particular, I am interested in low-cost environmental sensors and adaptation to environmental health risks. 
 
 Previously, I completed my PhD in Economics at Heidelberg University as a member of the [Research Center for Environmental Economics](https://www.awi.uni-heidelberg.de/en/research/environmental-economics). I recieved a dissertation scholarship from the [German Federal Environmental Foundation (DBU)](https://www.dbu.de/en/).
 
