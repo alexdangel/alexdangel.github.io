@@ -7,7 +7,7 @@
 
 <div class="pub-row">
   <div class="col-sm-9" style="position:relative;">
-      <div class="title"><a target="_blank" href="{{ link.pdf }}" color= #000>{{ link.title }}</a> (with {{ link.authors }})</div>
+      <div class="title"><a target="_blank" href="{{ link.pdf }}" style="color:black">{{ link.title }}</a> (with {{ link.authors }})</div>
       <div class="periodical">{{ link.conference }}
       </div>
     <div class="links">
