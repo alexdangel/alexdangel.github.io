@@ -1,7 +1,6 @@
 <h2 id="publications">Publications</h2>
 
 <div class="publications">
-<ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
@@ -47,7 +46,6 @@
 </div>   
 {% endfor %}
 
-</ol>
 </div>
 
 
