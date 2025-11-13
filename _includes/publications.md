@@ -45,6 +45,7 @@
     </div>
   {% endif %}
   </div>
+</div>   
 {% endfor %}
 
 </ol>
