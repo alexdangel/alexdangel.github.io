@@ -2,7 +2,7 @@ main:
 
   - title: "Air Quality Alerts and Don't Drive Appeals: Evidence on Voluntary Pollution Mitigation Dynamics from Germany"
     authors: with Timo Goeschl
-    conference: AWI DISCUSSION PAPER SERIES NO. 760, January 2025
+    conference: Journal of Environmental Economics and Management (in press)
     image: ./assets/img/aqa_teaser.png
-    notes: "Forthcoming at Journal of Environmental Economics and Management"
-    pdf: https://archiv.ub.uni-heidelberg.de/volltextserver/36004/7/Dangel_Goeschl_2025_dp760.pdf
+    pdf: https://www.sciencedirect.com/science/article/pii/S0095069625001329
+    code: https://doi.org/10.11588/data/TO3AAL 
