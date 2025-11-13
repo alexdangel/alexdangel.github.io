@@ -35,8 +35,9 @@
         {% endif %}
       </div>
     </div>
-    </div>
+  </div>
     {% if link.abstract %} 
+    <br>
     <div class="abstract-container">
         <p class="abstract-text">{{ link.abstract }}</p>
     </div>
