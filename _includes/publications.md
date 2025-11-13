@@ -8,9 +8,11 @@
 <div class="pub-row">
   <div class="pub-row2">
     <div class="col-sm-9" style="position:relative;">
-        <div class="title"><a target="_blank" href="{{ link.pdf }}" style="color:#222222">{{ link.title }}</a> (with {{ link.authors }})</div>
-        <div class="periodical">{{ link.conference }}
-        </div>
+      <div class="title">
+        <a target="_blank" href="{{ link.pdf }}" style="color:#222222">{{ link.title }}</a> (with {{ link.authors }})
+      </div>
+      <div class="periodical">{{ link.conference }}
+      </div>
       <div class="links">
         {% if link.pdf %} 
         <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">[Published Paper]</a>
@@ -36,12 +38,11 @@
       </div>
     </div>
   </div>
-    {% if link.abstract %} 
-    <br>
+  {% if link.abstract %} 
+  <br>
     <div class="abstract-container">
         <p class="abstract-text">{{ link.abstract }}</p>
     </div>
-  </div>
   {% endif %}
 
 {% endfor %}
