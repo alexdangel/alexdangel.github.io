@@ -7,9 +7,8 @@
 
 <div class="pub-row">
   <div class="col-sm-9" style="position:relative;">
-      <div class="title"><a target="_blank" href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a target="_blank" href="{{ link.pdf }}">{{ link.title }}</a> (with {{ link.authors }})</div>
       <div class="periodical">{{ link.conference }}
-      <div class="author"><em>{{ link.authors }}</em></div>
       </div>
     <div class="links">
       {% if link.WP %} 
