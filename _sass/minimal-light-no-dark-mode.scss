@@ -519,9 +519,15 @@ footer {
 
 
 .toggle-abstract-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  color: #0066cc;
   cursor: pointer;
-  font-size: 12px;
-   transition: background-color 0.2s ease;
+  font-weight: normal;
   
   &:hover {
     background-color: none;
