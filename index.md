@@ -12,6 +12,8 @@ Previously, I completed my PhD in Economics at Heidelberg University as a member
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/inprogress.md %}
+
 ## In Progress
 
 **Now It's Personal: A Field Experiment on the Demand for Wearable Air Quality Sensors with US Early Adopters** (with Timo Goeschl)

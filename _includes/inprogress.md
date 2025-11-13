@@ -3,7 +3,7 @@
 <div class="inprogress">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.inprogress.main %}
 
 <div class="pub-row">
   <div class="pub-row2">
