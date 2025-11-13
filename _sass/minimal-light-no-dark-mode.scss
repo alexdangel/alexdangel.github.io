@@ -525,21 +525,9 @@ footer {
   margin: 0;
   font-family: inherit;
   font-size: inherit;
-  color: #0066cc;
+  color: inherit;
   cursor: pointer;
   font-weight: normal;
-  
-  &:hover {
-    background-color: none;
-  }
-  
-  &.open::before {
-    content: "▼ ";
-  }
-  
-  &:not(.open)::before {
-    content: "▶ ";
-  }
 }
 
 .abstract-container {
