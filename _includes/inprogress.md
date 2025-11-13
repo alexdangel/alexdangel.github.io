@@ -9,7 +9,10 @@
   <div class="pub-row2">
     <div class="col-sm-9" style="position:relative;">
       <div class="title">
-        <a target="_blank" href="{{ link.pdf }}" style="color:#222222">{{ link.title }}</a> (with {{ link.authors }})
+        <a target="_blank" href="{{ link.pdf }}" style="color:#222222">{{ link.title }}</a> 
+        {% if link.authors %} 
+            (with {{ link.authors }})
+        {% endif %}
       </div>
       <div class="periodical">{{ link.conference }}
       </div>
