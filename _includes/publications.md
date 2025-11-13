@@ -40,7 +40,7 @@
 
   {% if link.abstract %} 
     <div class="abstract-container">
-        <p class="abstract-text">{{ link.abstract }}</p>
+        <p class="abstract-text" style="margin:0; padding-top:0;">{{ link.abstract }}</p>
     </div>
   {% endif %}
   </div>
