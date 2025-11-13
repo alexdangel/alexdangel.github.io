@@ -594,18 +594,12 @@ footer {
 }
 
 .toggle-abstract-btn {
-  background-color: #0066cc;
-  color: white;
-  border: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 4px;
   cursor: pointer;
-  font-size: 0.9em;
-  font-weight: 500;
-  transition: background-color 0.2s ease;
+  font-size: 12px;
+   transition: background-color 0.2s ease;
   
   &:hover {
-    background-color: #0052a3;
+    background-color: none;
   }
   
   &.open::before {
