@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Hi there!
+## Hi there!👋
 
 I am a Postdoctoral Researcher in the [Policy Evaluation Lab](https://www.pik-potsdam.de/en/institute/labs/policy-evaluation/governance) at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en). 
 
