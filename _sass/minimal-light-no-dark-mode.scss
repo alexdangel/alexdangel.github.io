@@ -525,9 +525,13 @@ footer {
   margin: 0;
   font-family: inherit;
   font-size: inherit;
-  color: inherit;
+  color:#39c;
   cursor: pointer;
   font-weight: normal;
+}
+
+.toggle-abstract-btn:hover {
+  color:#069;
 }
 
 .abstract-container {
