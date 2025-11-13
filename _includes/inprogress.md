@@ -1,7 +1,6 @@
 <h2 id="inprogress">In Progress</h2>
 
 <div class="inprogress">
-<ol class="bibliography">
 
 {% for link in site.data.inprogress.main %}
 
@@ -48,9 +47,9 @@
   {% endif %}
   </div>
 </div>   
+<br>
 {% endfor %}
 
-</ol>
 </div>
 
 
