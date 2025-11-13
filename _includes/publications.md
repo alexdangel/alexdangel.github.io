@@ -5,7 +5,6 @@
 
 {% for link in site.data.publications.main %}
 
-
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a target="_blank" href="{{ link.pdf }}">{{ link.title }}</a></div>
@@ -19,7 +18,7 @@
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.page %} 
+      {% if link.replication %} 
       <a href="{{ link.replication}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Replication Package</a>
       {% endif %}
       {% if link.page %} 
