@@ -1,6 +1,6 @@
-<h2 id="publications">Publications</h2>
+<h2 id="publications2">Publications</h2>
 
-<div class="publications">
+<div class="publications2">
 
 {% for link in site.data.publications.main %}
 
@@ -43,7 +43,8 @@
     </div>
   {% endif %}
   </div>
-</div>   
+</div>  
+<br> 
 {% endfor %}
 
 </div>
