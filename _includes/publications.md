@@ -6,7 +6,7 @@
 {% for link in site.data.publications.main %}
 
 <div class="pub-row">
-  <div class="col-sm-9" style="position:relative;padding-right: 10px;">
+  <div class="col-sm-9" style="position:relative;">
       <div class="title"><a target="_blank" href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="periodical"><b>{{ link.conference }}</b>
       <div class="author">{{ link.authors }}</div>
