@@ -112,7 +112,23 @@
 
     <script>
       function toggleAbstract(btn) {
-        const container = btn.nextElementSibling;
+        function toggleAbstract(btn) {
+        // Find the parent publication-item div
+        const publicationItem = btn.closest('.pub-row');
+        
+        if (!publicationItem) {
+          console.error('Could not find publication-item parent');
+          return;
+        }
+        
+        // Find the abstract-container within that parent
+        const container = publicationItem.querySelector('.abstract-container');
+        
+        if (!container) {
+          console.error('Could not find abstract-container');
+          return;
+        }
+
         btn.classList.toggle('open');
         container.classList.toggle('open');
         

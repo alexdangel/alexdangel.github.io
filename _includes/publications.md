@@ -36,7 +36,7 @@
   </div>
 </div>
 {% if link.abstract %} 
-<div class="abstract-container" style="display: none;">
+<div class="abstract-container">
     <p class="abstract-text">{{ link.abstract }}</p>
 </div>
 {% endif %}
