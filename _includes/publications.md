@@ -6,10 +6,10 @@
 {% for link in site.data.publications.main %}
 
 <div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="col-sm-9" style="position: relative;padding-right: 10px;">
       <div class="title"><a target="_blank" href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="periodical"><b>{{ link.conference }}</b>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.WP %} 
@@ -35,9 +35,9 @@
       {% endif %}
     </div>
   </div>
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 10px;padding-left: 10px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;margin-top:25px;height=40%">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;margin-top:5px;height=40%">
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
