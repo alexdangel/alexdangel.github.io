@@ -21,7 +21,7 @@
       <a href="{{ link.replication}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">[Data/Code]</a>
       {% endif %}
       {% if link.abstract %} 
-      <a class="toggle-abstract-btn" onclick="toggleAbstract(this)"> [Show Abstract] </a>
+      <button class="toggle-abstract-btn" onclick="toggleAbstract(this)" style="font-size:12px;">[Show Abstract]</button>
       {% endif %}
       {% if link.bibtex %} 
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
