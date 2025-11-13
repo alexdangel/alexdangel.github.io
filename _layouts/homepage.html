@@ -118,6 +118,21 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
+    <script>
+      function toggleAbstract(btn) {
+        const container = btn.nextElementSibling;
+        btn.classList.toggle('open');
+        container.classList.toggle('open');
+        
+        if (btn.classList.contains('open')) {
+          container.style.display = 'block';
+          btn.textContent = 'Hide Abstract';
+        } else {
+          container.style.display = 'none';
+          btn.textContent = 'Show Abstract';
+        }
+      }
+    </script>
     {% endif %}
   </body>
 </html>
