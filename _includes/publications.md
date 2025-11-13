@@ -34,12 +34,12 @@
       {% endif %}
     </div>
   </div>
+  {% if link.abstract %} 
+  <div class="abstract-container">
+      <p class="abstract-text">{{ link.abstract }}</p>
+  </div>
+  {% endif %}
 </div>
-{% if link.abstract %} 
-<div class="abstract-container">
-    <p class="abstract-text">{{ link.abstract }}</p>
-</div>
-{% endif %}
 
 {% endfor %}
 
