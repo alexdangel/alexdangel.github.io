@@ -15,8 +15,8 @@ Previously, I completed my PhD in Economics at Heidelberg University as a member
 {% include_relative _includes/inprogress.md %}
 
 ## Recent Presentations
-**June 2025:** EAERE Summer Conference in Bergen, Norway.
-**June 2025:** ZEW-Heidelberg-Mannheim Environmental Economics Brownbag Seminar.
-**May 2025:** Mannheim Conference on Energy and the Environment in Mannheim.
-**May 2025:** AERE@OSWEET. 
-**March 2025:** CESifo / ifo Junior Workshop on Energy and Climate Economics 2025 in Munich.
+**June 2025:** EAERE Summer Conference in Bergen, Norway.  
+**June 2025:** ZEW-Heidelberg-Mannheim Environmental Economics Brownbag Seminar.  
+**May 2025:** Mannheim Conference on Energy and the Environment in Mannheim.  
+**May 2025:** AERE@OSWEET.  
+**March 2025:** CESifo / ifo Junior Workshop on Energy and Climate Economics 2025 in Munich.  
